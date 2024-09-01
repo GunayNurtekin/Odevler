@@ -1,0 +1,14 @@
+C:\Users\gunay\Desktop\Web Kodlama\AcunMedya\Ödevler\HomeWorks_29_08_2024\03-datetime-methods-homework\Soru1\bin\Debug\net8.0\Soru1.exe
+C:\Users\gunay\Desktop\Web Kodlama\AcunMedya\Ödevler\HomeWorks_29_08_2024\03-datetime-methods-homework\Soru1\bin\Debug\net8.0\Soru1.deps.json
+C:\Users\gunay\Desktop\Web Kodlama\AcunMedya\Ödevler\HomeWorks_29_08_2024\03-datetime-methods-homework\Soru1\bin\Debug\net8.0\Soru1.runtimeconfig.json
+C:\Users\gunay\Desktop\Web Kodlama\AcunMedya\Ödevler\HomeWorks_29_08_2024\03-datetime-methods-homework\Soru1\bin\Debug\net8.0\Soru1.dll
+C:\Users\gunay\Desktop\Web Kodlama\AcunMedya\Ödevler\HomeWorks_29_08_2024\03-datetime-methods-homework\Soru1\bin\Debug\net8.0\Soru1.pdb
+C:\Users\gunay\Desktop\Web Kodlama\AcunMedya\Ödevler\HomeWorks_29_08_2024\03-datetime-methods-homework\Soru1\obj\Debug\net8.0\Soru1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gunay\Desktop\Web Kodlama\AcunMedya\Ödevler\HomeWorks_29_08_2024\03-datetime-methods-homework\Soru1\obj\Debug\net8.0\Soru1.AssemblyInfoInputs.cache
+C:\Users\gunay\Desktop\Web Kodlama\AcunMedya\Ödevler\HomeWorks_29_08_2024\03-datetime-methods-homework\Soru1\obj\Debug\net8.0\Soru1.AssemblyInfo.cs
+C:\Users\gunay\Desktop\Web Kodlama\AcunMedya\Ödevler\HomeWorks_29_08_2024\03-datetime-methods-homework\Soru1\obj\Debug\net8.0\Soru1.csproj.CoreCompileInputs.cache
+C:\Users\gunay\Desktop\Web Kodlama\AcunMedya\Ödevler\HomeWorks_29_08_2024\03-datetime-methods-homework\Soru1\obj\Debug\net8.0\Soru1.dll
+C:\Users\gunay\Desktop\Web Kodlama\AcunMedya\Ödevler\HomeWorks_29_08_2024\03-datetime-methods-homework\Soru1\obj\Debug\net8.0\refint\Soru1.dll
+C:\Users\gunay\Desktop\Web Kodlama\AcunMedya\Ödevler\HomeWorks_29_08_2024\03-datetime-methods-homework\Soru1\obj\Debug\net8.0\Soru1.pdb
+C:\Users\gunay\Desktop\Web Kodlama\AcunMedya\Ödevler\HomeWorks_29_08_2024\03-datetime-methods-homework\Soru1\obj\Debug\net8.0\Soru1.genruntimeconfig.cache
+C:\Users\gunay\Desktop\Web Kodlama\AcunMedya\Ödevler\HomeWorks_29_08_2024\03-datetime-methods-homework\Soru1\obj\Debug\net8.0\ref\Soru1.dll

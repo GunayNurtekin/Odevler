@@ -1,0 +1,14 @@
+C:\Users\gunay\Desktop\Web Kodlama\AcunMedya\Ödevler\HomeWorks_29_08_2024\02-number-methods-homework\Soru8\bin\Debug\net8.0\Soru8.exe
+C:\Users\gunay\Desktop\Web Kodlama\AcunMedya\Ödevler\HomeWorks_29_08_2024\02-number-methods-homework\Soru8\bin\Debug\net8.0\Soru8.deps.json
+C:\Users\gunay\Desktop\Web Kodlama\AcunMedya\Ödevler\HomeWorks_29_08_2024\02-number-methods-homework\Soru8\bin\Debug\net8.0\Soru8.runtimeconfig.json
+C:\Users\gunay\Desktop\Web Kodlama\AcunMedya\Ödevler\HomeWorks_29_08_2024\02-number-methods-homework\Soru8\bin\Debug\net8.0\Soru8.dll
+C:\Users\gunay\Desktop\Web Kodlama\AcunMedya\Ödevler\HomeWorks_29_08_2024\02-number-methods-homework\Soru8\bin\Debug\net8.0\Soru8.pdb
+C:\Users\gunay\Desktop\Web Kodlama\AcunMedya\Ödevler\HomeWorks_29_08_2024\02-number-methods-homework\Soru8\obj\Debug\net8.0\Soru8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gunay\Desktop\Web Kodlama\AcunMedya\Ödevler\HomeWorks_29_08_2024\02-number-methods-homework\Soru8\obj\Debug\net8.0\Soru8.AssemblyInfoInputs.cache
+C:\Users\gunay\Desktop\Web Kodlama\AcunMedya\Ödevler\HomeWorks_29_08_2024\02-number-methods-homework\Soru8\obj\Debug\net8.0\Soru8.AssemblyInfo.cs
+C:\Users\gunay\Desktop\Web Kodlama\AcunMedya\Ödevler\HomeWorks_29_08_2024\02-number-methods-homework\Soru8\obj\Debug\net8.0\Soru8.csproj.CoreCompileInputs.cache
+C:\Users\gunay\Desktop\Web Kodlama\AcunMedya\Ödevler\HomeWorks_29_08_2024\02-number-methods-homework\Soru8\obj\Debug\net8.0\Soru8.dll
+C:\Users\gunay\Desktop\Web Kodlama\AcunMedya\Ödevler\HomeWorks_29_08_2024\02-number-methods-homework\Soru8\obj\Debug\net8.0\refint\Soru8.dll
+C:\Users\gunay\Desktop\Web Kodlama\AcunMedya\Ödevler\HomeWorks_29_08_2024\02-number-methods-homework\Soru8\obj\Debug\net8.0\Soru8.pdb
+C:\Users\gunay\Desktop\Web Kodlama\AcunMedya\Ödevler\HomeWorks_29_08_2024\02-number-methods-homework\Soru8\obj\Debug\net8.0\Soru8.genruntimeconfig.cache
+C:\Users\gunay\Desktop\Web Kodlama\AcunMedya\Ödevler\HomeWorks_29_08_2024\02-number-methods-homework\Soru8\obj\Debug\net8.0\ref\Soru8.dll

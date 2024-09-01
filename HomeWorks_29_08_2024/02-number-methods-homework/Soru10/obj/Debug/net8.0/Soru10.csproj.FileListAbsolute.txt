@@ -1,0 +1,14 @@
+C:\Users\gunay\Desktop\Web Kodlama\AcunMedya\Ödevler\HomeWorks_29_08_2024\02-number-methods-homework\Soru10\bin\Debug\net8.0\Soru10.exe
+C:\Users\gunay\Desktop\Web Kodlama\AcunMedya\Ödevler\HomeWorks_29_08_2024\02-number-methods-homework\Soru10\bin\Debug\net8.0\Soru10.deps.json
+C:\Users\gunay\Desktop\Web Kodlama\AcunMedya\Ödevler\HomeWorks_29_08_2024\02-number-methods-homework\Soru10\bin\Debug\net8.0\Soru10.runtimeconfig.json
+C:\Users\gunay\Desktop\Web Kodlama\AcunMedya\Ödevler\HomeWorks_29_08_2024\02-number-methods-homework\Soru10\bin\Debug\net8.0\Soru10.dll
+C:\Users\gunay\Desktop\Web Kodlama\AcunMedya\Ödevler\HomeWorks_29_08_2024\02-number-methods-homework\Soru10\bin\Debug\net8.0\Soru10.pdb
+C:\Users\gunay\Desktop\Web Kodlama\AcunMedya\Ödevler\HomeWorks_29_08_2024\02-number-methods-homework\Soru10\obj\Debug\net8.0\Soru10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gunay\Desktop\Web Kodlama\AcunMedya\Ödevler\HomeWorks_29_08_2024\02-number-methods-homework\Soru10\obj\Debug\net8.0\Soru10.AssemblyInfoInputs.cache
+C:\Users\gunay\Desktop\Web Kodlama\AcunMedya\Ödevler\HomeWorks_29_08_2024\02-number-methods-homework\Soru10\obj\Debug\net8.0\Soru10.AssemblyInfo.cs
+C:\Users\gunay\Desktop\Web Kodlama\AcunMedya\Ödevler\HomeWorks_29_08_2024\02-number-methods-homework\Soru10\obj\Debug\net8.0\Soru10.csproj.CoreCompileInputs.cache
+C:\Users\gunay\Desktop\Web Kodlama\AcunMedya\Ödevler\HomeWorks_29_08_2024\02-number-methods-homework\Soru10\obj\Debug\net8.0\Soru10.dll
+C:\Users\gunay\Desktop\Web Kodlama\AcunMedya\Ödevler\HomeWorks_29_08_2024\02-number-methods-homework\Soru10\obj\Debug\net8.0\refint\Soru10.dll
+C:\Users\gunay\Desktop\Web Kodlama\AcunMedya\Ödevler\HomeWorks_29_08_2024\02-number-methods-homework\Soru10\obj\Debug\net8.0\Soru10.pdb
+C:\Users\gunay\Desktop\Web Kodlama\AcunMedya\Ödevler\HomeWorks_29_08_2024\02-number-methods-homework\Soru10\obj\Debug\net8.0\Soru10.genruntimeconfig.cache
+C:\Users\gunay\Desktop\Web Kodlama\AcunMedya\Ödevler\HomeWorks_29_08_2024\02-number-methods-homework\Soru10\obj\Debug\net8.0\ref\Soru10.dll

@@ -1,0 +1,14 @@
+C:\Users\gunay\Desktop\Web Kodlama\AcunMedya\Ödevler\HomeWorks_29_08_2024\05-if-else-homework2\Soru5\bin\Debug\net8.0\Soru5.exe
+C:\Users\gunay\Desktop\Web Kodlama\AcunMedya\Ödevler\HomeWorks_29_08_2024\05-if-else-homework2\Soru5\bin\Debug\net8.0\Soru5.deps.json
+C:\Users\gunay\Desktop\Web Kodlama\AcunMedya\Ödevler\HomeWorks_29_08_2024\05-if-else-homework2\Soru5\bin\Debug\net8.0\Soru5.runtimeconfig.json
+C:\Users\gunay\Desktop\Web Kodlama\AcunMedya\Ödevler\HomeWorks_29_08_2024\05-if-else-homework2\Soru5\bin\Debug\net8.0\Soru5.dll
+C:\Users\gunay\Desktop\Web Kodlama\AcunMedya\Ödevler\HomeWorks_29_08_2024\05-if-else-homework2\Soru5\bin\Debug\net8.0\Soru5.pdb
+C:\Users\gunay\Desktop\Web Kodlama\AcunMedya\Ödevler\HomeWorks_29_08_2024\05-if-else-homework2\Soru5\obj\Debug\net8.0\Soru5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gunay\Desktop\Web Kodlama\AcunMedya\Ödevler\HomeWorks_29_08_2024\05-if-else-homework2\Soru5\obj\Debug\net8.0\Soru5.AssemblyInfoInputs.cache
+C:\Users\gunay\Desktop\Web Kodlama\AcunMedya\Ödevler\HomeWorks_29_08_2024\05-if-else-homework2\Soru5\obj\Debug\net8.0\Soru5.AssemblyInfo.cs
+C:\Users\gunay\Desktop\Web Kodlama\AcunMedya\Ödevler\HomeWorks_29_08_2024\05-if-else-homework2\Soru5\obj\Debug\net8.0\Soru5.csproj.CoreCompileInputs.cache
+C:\Users\gunay\Desktop\Web Kodlama\AcunMedya\Ödevler\HomeWorks_29_08_2024\05-if-else-homework2\Soru5\obj\Debug\net8.0\Soru5.dll
+C:\Users\gunay\Desktop\Web Kodlama\AcunMedya\Ödevler\HomeWorks_29_08_2024\05-if-else-homework2\Soru5\obj\Debug\net8.0\refint\Soru5.dll
+C:\Users\gunay\Desktop\Web Kodlama\AcunMedya\Ödevler\HomeWorks_29_08_2024\05-if-else-homework2\Soru5\obj\Debug\net8.0\Soru5.pdb
+C:\Users\gunay\Desktop\Web Kodlama\AcunMedya\Ödevler\HomeWorks_29_08_2024\05-if-else-homework2\Soru5\obj\Debug\net8.0\Soru5.genruntimeconfig.cache
+C:\Users\gunay\Desktop\Web Kodlama\AcunMedya\Ödevler\HomeWorks_29_08_2024\05-if-else-homework2\Soru5\obj\Debug\net8.0\ref\Soru5.dll
