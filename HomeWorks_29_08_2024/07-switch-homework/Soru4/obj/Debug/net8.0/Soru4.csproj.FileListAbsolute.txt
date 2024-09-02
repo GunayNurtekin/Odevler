@@ -1,0 +1,14 @@
+C:\Users\gunay\Desktop\Web Kodlama\AcunMedya\Ödevler\HomeWorks_29_08_2024\07-switch-homework\Soru4\bin\Debug\net8.0\Soru4.exe
+C:\Users\gunay\Desktop\Web Kodlama\AcunMedya\Ödevler\HomeWorks_29_08_2024\07-switch-homework\Soru4\bin\Debug\net8.0\Soru4.deps.json
+C:\Users\gunay\Desktop\Web Kodlama\AcunMedya\Ödevler\HomeWorks_29_08_2024\07-switch-homework\Soru4\bin\Debug\net8.0\Soru4.runtimeconfig.json
+C:\Users\gunay\Desktop\Web Kodlama\AcunMedya\Ödevler\HomeWorks_29_08_2024\07-switch-homework\Soru4\bin\Debug\net8.0\Soru4.dll
+C:\Users\gunay\Desktop\Web Kodlama\AcunMedya\Ödevler\HomeWorks_29_08_2024\07-switch-homework\Soru4\bin\Debug\net8.0\Soru4.pdb
+C:\Users\gunay\Desktop\Web Kodlama\AcunMedya\Ödevler\HomeWorks_29_08_2024\07-switch-homework\Soru4\obj\Debug\net8.0\Soru4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gunay\Desktop\Web Kodlama\AcunMedya\Ödevler\HomeWorks_29_08_2024\07-switch-homework\Soru4\obj\Debug\net8.0\Soru4.AssemblyInfoInputs.cache
+C:\Users\gunay\Desktop\Web Kodlama\AcunMedya\Ödevler\HomeWorks_29_08_2024\07-switch-homework\Soru4\obj\Debug\net8.0\Soru4.AssemblyInfo.cs
+C:\Users\gunay\Desktop\Web Kodlama\AcunMedya\Ödevler\HomeWorks_29_08_2024\07-switch-homework\Soru4\obj\Debug\net8.0\Soru4.csproj.CoreCompileInputs.cache
+C:\Users\gunay\Desktop\Web Kodlama\AcunMedya\Ödevler\HomeWorks_29_08_2024\07-switch-homework\Soru4\obj\Debug\net8.0\Soru4.dll
+C:\Users\gunay\Desktop\Web Kodlama\AcunMedya\Ödevler\HomeWorks_29_08_2024\07-switch-homework\Soru4\obj\Debug\net8.0\refint\Soru4.dll
+C:\Users\gunay\Desktop\Web Kodlama\AcunMedya\Ödevler\HomeWorks_29_08_2024\07-switch-homework\Soru4\obj\Debug\net8.0\Soru4.pdb
+C:\Users\gunay\Desktop\Web Kodlama\AcunMedya\Ödevler\HomeWorks_29_08_2024\07-switch-homework\Soru4\obj\Debug\net8.0\Soru4.genruntimeconfig.cache
+C:\Users\gunay\Desktop\Web Kodlama\AcunMedya\Ödevler\HomeWorks_29_08_2024\07-switch-homework\Soru4\obj\Debug\net8.0\ref\Soru4.dll
