@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Soru1")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dba80d5d1139ea3f20c9670fc274f4c119fcbd12")]
 [assembly: System.Reflection.AssemblyProductAttribute("Soru1")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Soru1")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
