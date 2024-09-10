@@ -1,0 +1,14 @@
+C:\Users\gunay\Desktop\Web Kodlama\AcunMedya\Ödevler\Week04\01-arrays-homework\Soru13\bin\Debug\net8.0\Soru13.exe
+C:\Users\gunay\Desktop\Web Kodlama\AcunMedya\Ödevler\Week04\01-arrays-homework\Soru13\bin\Debug\net8.0\Soru13.deps.json
+C:\Users\gunay\Desktop\Web Kodlama\AcunMedya\Ödevler\Week04\01-arrays-homework\Soru13\bin\Debug\net8.0\Soru13.runtimeconfig.json
+C:\Users\gunay\Desktop\Web Kodlama\AcunMedya\Ödevler\Week04\01-arrays-homework\Soru13\bin\Debug\net8.0\Soru13.dll
+C:\Users\gunay\Desktop\Web Kodlama\AcunMedya\Ödevler\Week04\01-arrays-homework\Soru13\bin\Debug\net8.0\Soru13.pdb
+C:\Users\gunay\Desktop\Web Kodlama\AcunMedya\Ödevler\Week04\01-arrays-homework\Soru13\obj\Debug\net8.0\Soru13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gunay\Desktop\Web Kodlama\AcunMedya\Ödevler\Week04\01-arrays-homework\Soru13\obj\Debug\net8.0\Soru13.AssemblyInfoInputs.cache
+C:\Users\gunay\Desktop\Web Kodlama\AcunMedya\Ödevler\Week04\01-arrays-homework\Soru13\obj\Debug\net8.0\Soru13.AssemblyInfo.cs
+C:\Users\gunay\Desktop\Web Kodlama\AcunMedya\Ödevler\Week04\01-arrays-homework\Soru13\obj\Debug\net8.0\Soru13.csproj.CoreCompileInputs.cache
+C:\Users\gunay\Desktop\Web Kodlama\AcunMedya\Ödevler\Week04\01-arrays-homework\Soru13\obj\Debug\net8.0\Soru13.dll
+C:\Users\gunay\Desktop\Web Kodlama\AcunMedya\Ödevler\Week04\01-arrays-homework\Soru13\obj\Debug\net8.0\refint\Soru13.dll
+C:\Users\gunay\Desktop\Web Kodlama\AcunMedya\Ödevler\Week04\01-arrays-homework\Soru13\obj\Debug\net8.0\Soru13.pdb
+C:\Users\gunay\Desktop\Web Kodlama\AcunMedya\Ödevler\Week04\01-arrays-homework\Soru13\obj\Debug\net8.0\Soru13.genruntimeconfig.cache
+C:\Users\gunay\Desktop\Web Kodlama\AcunMedya\Ödevler\Week04\01-arrays-homework\Soru13\obj\Debug\net8.0\ref\Soru13.dll
