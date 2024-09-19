@@ -1,0 +1,6 @@
+; Bir Animal sınıfı oluşturun. Bu sınıf aşağıdaki özelliklere sahip olmalıdır:
+
+; Name (isim): Hayvanın adı
+; Age (yaş): Hayvanın yaşı
+; Species (tür): Hayvanın türü
+; Bu temel sınıftan Lion (Aslan), Elephant (Fil) ve Giraffe (Zürafa) gibi türemiş sınıflar oluşturun. Her bir türemiş sınıfın içinde MakeSound isimli bir metod bulunsun. Bu metod her hayvan için farklı bir ses çıkarmalıdır (örneğin, Lion için "Kükreme", Elephant için "Boru" sesi).

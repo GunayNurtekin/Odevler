@@ -1,0 +1,14 @@
+C:\Users\gunay\Desktop\Web Kodlama\AcunMedya\Ödevler\Week05\oop-homeworks\Soru9\bin\Debug\net8.0\Soru9.exe
+C:\Users\gunay\Desktop\Web Kodlama\AcunMedya\Ödevler\Week05\oop-homeworks\Soru9\bin\Debug\net8.0\Soru9.deps.json
+C:\Users\gunay\Desktop\Web Kodlama\AcunMedya\Ödevler\Week05\oop-homeworks\Soru9\bin\Debug\net8.0\Soru9.runtimeconfig.json
+C:\Users\gunay\Desktop\Web Kodlama\AcunMedya\Ödevler\Week05\oop-homeworks\Soru9\bin\Debug\net8.0\Soru9.dll
+C:\Users\gunay\Desktop\Web Kodlama\AcunMedya\Ödevler\Week05\oop-homeworks\Soru9\bin\Debug\net8.0\Soru9.pdb
+C:\Users\gunay\Desktop\Web Kodlama\AcunMedya\Ödevler\Week05\oop-homeworks\Soru9\obj\Debug\net8.0\Soru9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gunay\Desktop\Web Kodlama\AcunMedya\Ödevler\Week05\oop-homeworks\Soru9\obj\Debug\net8.0\Soru9.AssemblyInfoInputs.cache
+C:\Users\gunay\Desktop\Web Kodlama\AcunMedya\Ödevler\Week05\oop-homeworks\Soru9\obj\Debug\net8.0\Soru9.AssemblyInfo.cs
+C:\Users\gunay\Desktop\Web Kodlama\AcunMedya\Ödevler\Week05\oop-homeworks\Soru9\obj\Debug\net8.0\Soru9.csproj.CoreCompileInputs.cache
+C:\Users\gunay\Desktop\Web Kodlama\AcunMedya\Ödevler\Week05\oop-homeworks\Soru9\obj\Debug\net8.0\Soru9.dll
+C:\Users\gunay\Desktop\Web Kodlama\AcunMedya\Ödevler\Week05\oop-homeworks\Soru9\obj\Debug\net8.0\refint\Soru9.dll
+C:\Users\gunay\Desktop\Web Kodlama\AcunMedya\Ödevler\Week05\oop-homeworks\Soru9\obj\Debug\net8.0\Soru9.pdb
+C:\Users\gunay\Desktop\Web Kodlama\AcunMedya\Ödevler\Week05\oop-homeworks\Soru9\obj\Debug\net8.0\Soru9.genruntimeconfig.cache
+C:\Users\gunay\Desktop\Web Kodlama\AcunMedya\Ödevler\Week05\oop-homeworks\Soru9\obj\Debug\net8.0\ref\Soru9.dll
