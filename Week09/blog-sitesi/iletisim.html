@@ -1,0 +1,290 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css">
+    <link rel="stylesheet" href="style.css">
+
+    <style>
+
+/* Container */
+.container {
+    display: flex;
+    margin-top: 70px;
+}
+
+/* Sidebar */
+.sidebar {
+    width: 25%;
+    margin-right: 20px;
+}
+
+.list-group-item {
+    padding: 10px 15px;
+}
+
+/* Kartlar */
+.content {
+    width: 70%;
+}
+
+.card {
+    background-color: white;
+    padding: 15px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+}
+
+.img-fluid {
+    border-radius: 10px;
+}
+
+    </style>
+
+
+</head>
+<body>
+
+
+    <!-- Header -->
+    
+    <header class="fixed-top">
+
+        
+        <nav>
+           
+            <span class="logo" style="font-size: 18px;">Günay'ın Web Sitesi </span>
+            <ul class="menu">
+                <li><a href="/index.html">Anasayfa</a></li>
+                <li><a href="/yazilar.html">Yazilarim</a></li>
+                <li><a href="/iletisim.html">İletişim</a></li>
+            </ul>
+            </nav>
+    </header>
+
+    <!-- Container -->
+
+    <div class="container">
+    
+
+       
+        <div class="content">
+
+           
+
+            <div class="alert alert-secondary">
+                <strong>Buradasin : </strong> <a href="#" class="text-decoration-none text-danger">Anasayfa </a> / iletisim.html 
+            
+            </div>
+
+            <div class="bg-white rounded p-3">
+                <h1>İletişim</h1><hr>
+                <p>Bizimle iletişime geçmek için aşağıdaki formu kullanabilirsiniz. En kısa zaman da mailiniz değerlendirilip geri dönüş yapılacaktır.</p>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nesciunt deserunt, quam, sequi iste reprehenderit nobis dolores totam eos, obcaecati officiis delectus fuga. Numquam dolore sunt atque reiciendis alias? Nam, recusandae.</p>
+            </div>
+
+            <form action="/action_page.php" class="bg-danger text-white rounded">
+
+                <div class="row p-3">
+                    <div class="col">
+                        <label for="adiniz" class="form-label">Adiniz:</label>
+                      <input type="text" class="form-control" placeholder="isim giriniz" name="email">
+                    </div>
+                    <div class="col">
+                        <label for="soyadiniz" class="form-label">Soyadiniz:</label>
+                      <input type="text" class="form-control" placeholder="soy isim giriniz" name="pswd">
+                    </div>
+                  </div>
+
+                
+
+
+                <div class=" p-3">
+                  <label for="email" class="form-label">Email:</label>
+                  <input type="email" class="form-control" id="email" placeholder="E-mail giriniz" name="email">
+                </div>
+
+                <div class=" p-3">
+                    <label for="konu" class="form-label">Konu:</label>
+                    <input type="text" class="form-control" id="konu" placeholder="Mailiniz ne hakkinda ? " name="konu">
+                  </div>
+
+                <div class="p-3">
+                  <label for="pwd" class="form-label">Mesajiniz:</label>
+                  <textarea class="form-control" rows="5" id="comment" name="text"></textarea>
+                </div>
+              
+                <button type="submit" class="btn btn-dark m-3 ">Gönder</button>
+              </form>
+
+              <br>
+          <div> Aşağıdaki haritadan adresimizi inceleyebilirsinz. </div>
+           
+<hr>
+              <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3707.3105704266945!2d29.11049283671663!3d40.961212711250305!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14cabbe7eee803fb%3A0x2f64ecd26d22527a!2sYowa%20Academy!5e1!3m2!1str!2str!4v1728885515819!5m2!1str!2str" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+        </div>
+
+              <!-- Sol Liste -->
+      <!-- Sidebar -->
+      <aside class="sidebar">
+
+
+        <h3 class="">Kategoriler</h3>
+            <hr>
+        <ul class="list-group">
+
+            <li class="list-group-item list-group-item-action list-group-item-light d-flex justify-content-between align-items-center">
+                Asp.NET Dersleri
+                 <span class="badge bg-warning text-dark rounded-pill">56</span>
+               </li>
+
+            <li class="list-group-item list-group-item-action list-group-item-light d-flex justify-content-between align-items-center">
+             C# Programlama
+              <span class="badge bg-warning text-dark rounded-pill">52</span>
+            </li>
+            <li class="list-group-item list-group-item-action list-group-item-light d-flex justify-content-between align-items-center">
+              SQL Dersleri
+              <span class="badge bg-warning text-dark rounded-pill">50</span>
+            </li>
+            <li class="list-group-item list-group-item-action list-group-item-light d-flex justify-content-between align-items-center">
+             HTML - CSS Dersleri
+              <span class="badge bg-warning text-dark rounded-pill">99</span>
+            </li>
+
+            <li class="list-group-item list-group-item-action list-group-item-light d-flex justify-content-between align-items-center">
+                Bootstrap Dersleri
+                 <span class="badge bg-warning text-dark rounded-pill">23</span>
+               </li>
+
+               <li class="list-group-item list-group-item-action list-group-item-light d-flex justify-content-between align-items-center">
+                JavaScript Dersleri
+                 <span class="badge bg-warning text-dark rounded-pill">37</span>
+               </li>
+
+          </ul>
+
+          <aside class="popular-posts">
+            <h3>Popüler Yazilarimiz</h3>
+            <ul>
+                <li>
+                    <img src="https://via.placeholder.com/50" alt="Post Image">
+                    <div class="post-info">
+                        <h4>Yazı 1 Başlığı</h4>
+                        <p>Kısa açıklama buraya gelecek.</p>
+                    </div>
+                </li>
+        
+                <li>
+                    <img src="https://via.placeholder.com/50" alt="Post Image">
+                    <div class="post-info">
+                        <h4>Yazı 2 Başlığı</h4>
+                        <p>Kısa açıklama buraya gelecek.</p>
+                    </div>
+                </li>
+        
+                <li>
+                    <img src="https://via.placeholder.com/50" alt="Post Image">
+                    <div class="post-info">
+                        <h4>Yazı 3 Başlığı</h4>
+                        <p>Kısa açıklama buraya gelecek.</p>
+                    </div>
+                </li>
+        
+                <li>
+                    <img src="https://via.placeholder.com/50" alt="Post Image">
+                    <div class="post-info">
+                        <h4>Yazı 4 Başlığı</h4>
+                        <p>Kısa açıklama buraya gelecek.</p>
+                    </div>
+                </li>
+        
+                <li>
+                    <img src="https://via.placeholder.com/50" alt="Post Image">
+                    <div class="post-info">
+                        <h4>Yazı 5 Başlığı</h4>
+                        <p>Kısa açıklama buraya gelecek.</p>
+                    </div>
+                </li>
+
+                <li>
+                    <img src="https://via.placeholder.com/50" alt="Post Image">
+                    <div class="post-info">
+                        <h4>Yazı 6 Başlığı</h4>
+                        <p>Kısa açıklama buraya gelecek.</p>
+                    </div>
+                </li>
+
+                <li>
+                    <img src="https://via.placeholder.com/50" alt="Post Image">
+                    <div class="post-info">
+                        <h4>Yazı 7 Başlığı</h4>
+                        <p>Kısa açıklama buraya gelecek.</p>
+                    </div>
+                </li>
+            </ul>
+        </aside>
+       
+
+    </aside>
+
+ 
+
+
+        
+
+       
+
+
+    </div>
+
+
+
+    <section id="footer">
+        <div class="footer-container">
+            <!-- İletişim Bilgileri -->
+            <div class="footer-col">
+                <h4>İletişim Bilgileri</h4>
+                <hr>
+                <p>Aşağıdaki bilgilerden bana ulaşabilirsiniz.</p>
+                <ul>
+                    <li><b>Telefon:</b> +90 555 555 5555</li>
+                    <li><b>E-mail:</b> info@example.com</li>
+                    <li><b>Adres:</b> İstanbul, Türkiye</li>
+                </ul>
+            </div>
+        
+            <!-- Sosyal Medya İkonları -->
+            <div class="footer-col">
+                <h4>Sosyal Medya</h4>
+                <hr>
+                <p>Sosyal medyadan takip et , gelişmeleri kaçırma !</p>
+                <ul class="social-links">
+                    <li><a href="#"><b>Instagram :</b> @gunay</a></li>
+                    <li><a href="#"><b>Facebook  :</b> @gunay</a></li>
+                    <li><a href="#"><b>YouTube  :</b> @gunay</a></li>
+                   
+                </ul>
+            </div>
+        
+            <!-- Takip Formu -->
+            <div class="footer-col">
+                <h4>Bizi Takip Et</h4>
+                <hr>
+                <p>Bizi takip ederek , en son eklediğimiz yazilardan anında haberdar olabilirsiniz. Tek yapmanız gereken aşağıya
+                    mail adresinizi girip göndermeniz. 
+                </p>
+                <form>
+                    <input type="email" placeholder="Email adresinizi girin">
+                    <button type="submit">Gönder</button>
+                </form>
+            </div>
+        </div>
+          
+    </section>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>

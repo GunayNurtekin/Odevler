@@ -1,0 +1,323 @@
+
+
+body 
+{
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+/* Header */
+header 
+{
+    background-color: #333;
+    padding: 15px;
+    color: white;
+    position: sticky;
+  
+}
+
+header nav 
+{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 1270px;
+    margin: 0 auto;
+    
+}
+
+header logo
+{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+
+.menu 
+{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.menu li 
+{
+    display: inline;
+    margin-right: 20px;
+    font-size: 18px;
+}
+
+.menu li a 
+{
+    color: white;
+    text-decoration: none;
+}
+
+.menu li a:hover
+{
+    color: rgb(240, 213, 12);
+    text-decoration: none;
+    font-size: 18px;
+}
+
+.search-bar 
+{
+    display: flex;
+    align-items: center;
+}
+
+.search-bar input 
+{
+    padding: 8px;
+    font-size: 16px;
+    border-radius: 5px;
+    border: none;
+    width: 50%;
+}
+
+.search-bar button 
+{
+    background-color: #ffcc00;
+    padding: 8px 10px;
+    margin-left: 10px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+/* Main Container */
+.container 
+{
+    display: flex;
+    padding: 20px;
+}
+
+
+/* Featured Card */
+.featured-card {
+    grid-column: span 3;
+    background-color: #ddd;
+    padding: 20px;
+    margin-top: 60px;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+
+  
+}
+
+.featured-card img {
+    width: 20%;
+    border-radius: 10px;
+    float: left;
+    
+}
+
+#featuredpost{
+    position: relative;
+  
+}
+
+    
+
+#featured-content
+{
+    position: relative;
+    width: 98%;
+    left: 25px;
+   
+   
+}
+
+
+/* Blog Posts Grid */
+.posts-grid 
+{
+    flex: 3;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 20px;
+}
+
+.post 
+{
+    background-color: white;
+    padding: 15px;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+}
+
+.post img 
+{
+    width: 100%;
+    border-radius: 10px;
+}
+
+.post h2 
+{
+    font-size: 20px;
+    margin-top: 10px;
+}
+
+.post p 
+{
+    font-size: 14px;
+    color: #555;
+}
+
+/* Sidebar */
+.sidebar 
+{
+    flex: 1;
+    background-color: #ddd;
+    padding: 20px;
+    border-radius: 10px;
+    margin-left: 20px;
+
+   
+
+
+}
+
+.sidebar h3 
+{
+    background-color: #ffc107;
+    padding: 10px;
+    border-radius: 5px;
+    margin-bottom: 15px;
+    text-align: center;
+     color:  white;
+    font-size: 18px;
+    font-weight: 600;
+}
+
+.sidebar ul 
+{
+    list-style: none;
+    padding: 0;
+}
+
+.sidebar ul li 
+{
+    margin-bottom: 10px;
+}
+
+.sidebar ul li a 
+{
+    text-decoration: none;
+    color: #333;
+}
+
+
+/* Popüler Yazılar Widget */
+.popular-posts {
+    background-color: #f0f0f0;
+    padding: 20px;
+    border-radius: 10px;
+    margin-top: 20px;
+}
+
+
+
+.popular-posts ul {
+    list-style: none;
+    padding: 0;
+}
+
+.popular-posts li {
+    display: flex;
+    align-items: center;
+    margin-bottom: 15px;
+}
+
+.popular-posts li img {
+    width: 50px;
+    height: 50px;
+    border-radius: 5px;
+    margin-right: 10px;
+}
+
+.post-info h4 {
+    font-size: 16px;
+    margin: 0;
+}
+
+.post-info p {
+    font-size: 12px;
+    color: #777;
+    margin: 5px 0 0;
+}
+
+
+/* Footer */
+
+#footer{
+    background-color: #333;
+}
+
+/* Footer Container */
+.footer-container {
+
+    background-color: #333;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 1270px;
+    margin: 10px auto;
+    padding: 20px 0;
+}
+
+
+
+
+
+/* Footer Columns */
+.footer-col {
+    flex: 1;
+    padding: 30px 25px;
+   
+}
+
+.footer-col h4 {
+    margin-bottom: 15px;
+    font-size: 18px;
+}
+
+.footer-col ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.footer-col ul li {
+    margin-bottom: 10px;
+}
+
+/* Social Links */
+.social-links li a {
+    text-decoration: none;
+    color: white;
+    display: inline-block;
+    margin-right: 10px;
+}
+
+/* Form Styling */
+form input {
+    padding: 10px;
+    width: 60%;
+    margin-bottom: 10px;
+    border: none;
+    border-radius: 5px;
+}
+
+form button {
+    padding: 10px 20px;
+    border: none;
+    background-color: #ffcc00;
+    color: #333;
+    border-radius: 5px;
+    cursor: pointer;
+}

@@ -1,0 +1,304 @@
+
+
+/* Genel Stiller */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    /* background-color: #f4f4f4; */
+    /* background-image: url("https://sample-hotel.vercel.app/images/bg-main.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover; Resmi ekrana sığacak şekilde ölçeklendirir */
+}
+
+header {
+    /* background: url('https://sample-hotel.vercel.app/images/bg-main.jpg') no-repeat center center/cover; */
+    background: url('https://www.washingtonresorthotel.com/images/slider/55-1-Image16.jpg')no-repeat center center/cover;
+    height: 100vh;
+    color: #fff;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    opacity: 0.9;
+    
+}
+
+nav {
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.6);
+    padding: 1rem;
+    position: fixed;
+    top: 0;
+    left: 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+nav .logo {
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: #fff;
+}
+
+nav ul {
+    list-style: none;
+    display: flex;
+    margin: 10px;
+}
+
+nav ul li {
+    margin: 0 1rem;
+}
+
+nav ul li a {
+    color: #fff;
+    text-decoration: none;
+}
+
+.hero {
+    background-color: #f4f4f4;
+    color: #333;
+    padding: 40px 60px;
+    opacity: 0.9;
+    border-radius: 10px;
+}
+
+.hero h1 {
+    font-size: 3rem;
+    margin-bottom: 1rem;
+}
+
+.hero p {
+    font-size: 1.5rem;
+    margin-bottom: 1.5rem;
+}
+
+
+.hero .btn:hover {
+    background-color: #1a1919;
+}
+
+/* Hakkımızda Bölümü */
+.about {
+    padding: 4rem 2rem;
+    background-color: #fff;
+    height: 500px;
+}
+
+.about img{
+    width:550px;
+    float: left;
+    margin: 10px 30px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.4);
+    border-radius: 8px;
+}
+
+.about h2 {
+    margin-bottom: 1rem;
+    font-size: 2rem;
+}
+
+.about p {
+    font-size: 1.2rem;
+    margin-bottom: 2rem;
+   
+}
+
+/* Odalar Bölümü */
+.rooms {
+    padding: 4rem 2rem;
+    background-color: #f4f4f4;
+    text-align: center;
+}
+
+.rooms h2 {
+    margin-bottom: 2rem;
+    font-size: 2rem;
+}
+
+.room-grid {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.room {
+    background-color: #fff;
+    padding: 1rem;
+    margin: 1rem;
+    width: 30%;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+}
+
+.room img {
+    width: 100%;
+    border-radius: 8px 8px 0 0;
+}
+
+.room h3 {
+    margin: 1rem 0;
+}
+
+.room p {
+    font-size: 1rem;
+}
+
+.services {
+    text-align: center;
+    padding: 50px 0;
+}
+
+.services h2 {
+    font-size: 2rem;
+    margin-bottom: 40px;
+    color: #5ea5c9; /* Başlık rengini ayarlayın */
+}
+
+.service-container {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.service-item {
+    width: 200px;
+    text-align: center;
+    margin: 20px;
+}
+
+.service-item img {
+    width: 96px; /* İkonların boyutunu ayarlayın */
+    height: 96px;
+    margin-bottom: 10px;
+}
+
+.service-item h3 {
+    font-size: 1.2rem;
+    color: #ff006f; /* Başlıkların rengini ayarlayın */
+    margin-bottom: 10px;
+}
+
+.service-item p {
+    color: #333;
+    font-size: 0.9rem;
+    line-height: 1.5;
+}
+
+
+.contact-section {
+    padding: 50px 0;
+    display: flex;
+    justify-content: center;
+}
+
+.contact-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    max-width: 1200px;
+    width: 100%;
+}
+
+.map-container {
+    flex: 1;
+    padding-right: 20px;
+}
+
+.form-container {
+    flex: 1;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+h2 {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+}
+
+.form-row {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 15px;
+}
+
+.form-row input {
+    width: 48%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+textarea {
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    height: 100px;
+    margin-bottom: 15px;
+    resize: none;
+}
+
+.form-checkbox {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.form-checkbox input {
+    margin-right: 10px;
+}
+
+button {
+    padding: 10px;
+    background-color: #333;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    width: 100%;
+    font-size: 1rem;
+}
+
+button:hover {
+    background-color: #555;
+}
+
+.contact-info {
+    margin-top: 30px;
+}
+
+.contact-info h3 {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.contact-info p {
+    font-size: 1rem;
+    margin-bottom: 10px;
+}
+
+
+/* Footer */
+footer {
+    background-color: #333;
+    color: #fff;
+    padding: 1rem;
+    text-align: center;
+    margin-top: 2rem;
+}
