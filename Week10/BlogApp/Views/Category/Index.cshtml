@@ -1,0 +1,18 @@
+@model dynamic
+@{
+    ViewData["Title"] = "Index";
+}
+
+
+<div style="text-align: center;">
+    <p class="h1 text-danger">Kategoriler</p>
+<hr>
+    <ul style="list-style-type: none; padding: 0;">
+        @foreach (var kategori in ViewBag.Cat)
+        {
+            <li style="margin: 20px 0;">
+                <p class="h3 text-muted">@kategori</p>
+            </li>
+        }
+    </ul>
+</div>

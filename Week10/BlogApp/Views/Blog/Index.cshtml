@@ -1,0 +1,28 @@
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+@model List<BlogApp.Models.BlogModel>
+
+@if (Model != null && Model.Count > 0)
+{
+    <div class="row">
+        @foreach (var post in Model)
+        {
+            <div class="col-md-3 mb-4">
+                <div class="card">
+                    <img class="card-img-top" src="@post.img" alt="Blog Image">
+                    <div class="card-body">
+                        <h5 class="card-title">@post.Title</h5>
+                        <p class="card-text">@post.Desc</p>
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
+}
+else
+{
+    <p>No blog posts available.</p>
+}
