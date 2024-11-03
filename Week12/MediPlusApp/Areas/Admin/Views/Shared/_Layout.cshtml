@@ -1,0 +1,27 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  @await Html.PartialAsync("_MetaPartial")
+  @await Html.PartialAsync("_StylesPartial")
+</head>
+
+<body id="page-top">
+    <!-- Page Wrapper -->
+    <div id="wrapper">
+    <!-- Sidebar -->
+    @await Html.PartialAsync("_SidebarPartial")
+    <!-- End of Sidebar -->
+    <!-- Content Wrapper -->
+    @RenderBody()
+    <!-- End of Content Wrapper -->
+    </div>
+    <!-- End of Page Wrapper -->
+    <!-- Scroll to Top Button-->
+    @await Html.PartialAsync("_ScrollToTopPartial")
+    <!-- Logout Modal-->
+    @await Html.PartialAsync("_LogoutPartial")
+    @await Html.PartialAsync("_ScriptsPartial")
+</body>
+
+</html>
